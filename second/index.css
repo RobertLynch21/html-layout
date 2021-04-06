@@ -1,0 +1,74 @@
+.flex {
+    display: flex;
+    flex-flow: row;
+}
+
+.box-1 {
+    border: black 4px solid;
+    height: 300px;
+    width: 97vw;
+    margin: 20px;
+
+}
+.prectangle {
+    height: 150px;
+    width: 50px;
+    background-color: purple;
+    position: relative;
+    left: 20px;
+    top: 130px;
+}
+
+.gsquare {
+    height: 275px;
+    width: 450px;
+    background-color: green;
+    position: relative;
+    left: 100px;
+    top: 10px;
+    
+}
+
+.bcircle {
+    height: 275px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: skyblue;
+    position: relative;
+    left: 200px;
+    top: 10px;
+}
+
+.section-2 {
+    height: 40vh;
+    width: 97vw;
+    border: black dotted 4px;
+    margin: 20px;
+}
+
+.sbox-1 {
+    height: 275px;
+    width: 92vw;
+    background-color: bisque;
+    margin: 50px;
+    -webkit-box-shadow: 12px 15px 15px -3px #000000; 
+box-shadow: 12px 15px 15px -3px #000000;
+}
+
+.section-3 {
+    height: 450px;
+    width: 500px;
+    border: solid 1px black;
+    margin: auto;
+    padding: 10px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 72px;
+    position: relative;
+    top: 100px;
+    letter-spacing: 20px;
+}
+
